@@ -1,6 +1,6 @@
 #Latest Posts - SilverStripe widget
 
-**This [SilverStripe](http://www.silverstripe.org/) widget outputs your latest blog posts. You can choose to filter the results by category (if you have the [Blog Categories module](https://github.com/IOTI/silverstripe-blogcategories) installed).**
+**This [SilverStripe](http://www.silverstripe.org/) widget outputs your latest blog posts. You can choose to filter the results by category (this widget also requires the [Blog Categories module](https://github.com/IOTI/silverstripe-blogcategories) to be installed).**
 
 ##Installation & Usage
 

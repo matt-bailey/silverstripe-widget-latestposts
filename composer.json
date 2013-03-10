@@ -1,0 +1,16 @@
+{
+    "name": "mattbailey/widget_latestposts",
+    "description": "A SilverStripe widget that outputs your latest blog posts.",
+    "type": "silverstripe-module",
+    "keywords": ["silverstripe", "widget", "blog", "latest", "posts", "articles", "categories"],
+    "authors": [
+    {
+        "name": "Matt Bailey",
+        "email": "me@mattbailey.co"
+    }
+    ],
+    "require":
+    {
+        "silverstripe/framework": "3.*"
+    }
+}
